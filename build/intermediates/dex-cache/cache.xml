@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\pre-dexed\release\classes-4e4e752c70b93d0cdb0d32a74f1cce880d55c230.jar" />
+    </item>
+    <item
+        jar="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1-0d4547a006af7a9fe454c40f80258838f938b2df.jar" />
+    </item>
+    <item
+        jar="D:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1-28b86399458c0a0d6477619e803235f175419b92.jar" />
+    </item>
+    <item
+        jar="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Android Codes\FakeMoneyDetector_final\app\build\intermediates\pre-dexed\release\classes-4d3c3bb9f55bf920247e3d7a765ccf80ccd8a012.jar" />
+    </item>
+
+</items>

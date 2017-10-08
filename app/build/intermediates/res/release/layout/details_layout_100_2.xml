@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:src="@drawable/tk100new"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap Here"
+        android:id="@+id/d2"
+        android:layout_marginTop="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap Here"
+        android:id="@+id/d1"
+        android:layout_below="@+id/d2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="183dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap Here"
+        android:id="@+id/d3"
+        android:layout_below="@+id/d1"
+        android:layout_alignLeft="@+id/d4"
+        android:layout_alignStart="@+id/d4"
+        android:layout_marginTop="54dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap Here"
+        android:id="@+id/d4"
+        android:layout_below="@+id/d2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout><!-- From: file:/D:/Android%20Codes/FakeMoneyDetector_final/app/src/main/res/layout/details_layout_100_2.xml -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/b4">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Choose your currency"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="100 TK"
+        android:id="@+id/hundredTtakaButton"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="500 TK"
+        android:id="@+id/fiveHundredTakaButton"
+        android:layout_below="@+id/hundredTtakaButton"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:background="@drawable/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1000 TK"
+        android:id="@+id/thousandTakaButton"
+        android:layout_below="@+id/fiveHundredTakaButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+</RelativeLayout>
